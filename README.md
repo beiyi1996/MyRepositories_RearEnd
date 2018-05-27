@@ -3,4 +3,4 @@
 > + 使用技術 : C# － ADO.NET Entity Framework  
 > + 目的 : 使用者可以選擇需要的車票類型，並將計算後的票價顯示在Label上。
 
-![Schedule](https://github.com/beiyi1996/MyRepositories_FrontEnd/blob/master/Picture/%E8%A1%8C%E4%BA%8B%E6%9B%86.png) 
+![Ticketfare](https://github.com/beiyi1996/MyRepositories_RearEnd/blob/master/picture/%E9%81%8B%E8%BC%B8%E7%A5%A8%E5%83%B9.png) 
