@@ -1,0 +1,10 @@
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\bin\Debug\lifenumber.exe.config
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\bin\Debug\lifenumber.exe
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\bin\Debug\lifenumber.pdb
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.csprojResolveAssemblyReference.cache
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.Form1.resources
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.Properties.Resources.resources
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.csproj.GenerateResource.Cache
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.csproj.CoreCompileInputs.cache
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.exe
+C:\Users\usj03\Desktop\C#\Hackathon\lifenumber\obj\Debug\lifenumber.pdb
